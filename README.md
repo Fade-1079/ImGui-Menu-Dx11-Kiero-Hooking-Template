@@ -8,4 +8,4 @@ any questions? dm @fade1079 on discord
 Fix Animations with the toggle switches
 
 Add Toggle Switches to other tabs
-I' redo this way better if it gets 10 stars
+I'll redo this way better if it gets 10 stars
